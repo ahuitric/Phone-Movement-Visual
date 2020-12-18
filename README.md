@@ -1,4 +1,5 @@
-# Phone-Movement-Visual
+# Phone Motion Visualizer for MATLAB
+
 ## Requirements
 <ul>
 <li> MATLAB 2019b or later</li>
