@@ -12,7 +12,7 @@
 ## Instructions
 <ul>
   <li>Clone repository to local computer using "git clone https://github.com/ahuitric/Phone-Movement-Visual.git"</li>
-  <li>Open "Visualizer.m"</li>
+  <li>Open "main.m"</li>
   <li>If you require additional packages listed above, go to "Home" > "Add-Ons" 
   <li> Search "Phased Array System Toolbox" and "MATLAB Support Package for iOS/Android Devices" and follow install instructions 
     (only compatible with MATLAB 2019b or later)</li>
