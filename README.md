@@ -15,6 +15,6 @@
   <li>If you require additional packages listed above, go to "Home" > "Add-Ons" 
   <li> Search "Phased Array System Toolbox" and "MATLAB Support Package for iOS/Android Devices" and follow install instructions 
     (only compatible with MATLAB 2019b or later)</li>
-  <li> Hit "F5" or "Run" to execute scipt</li>
+  <li> Hit "F5" or "Run" to execute script</li>
   </ul>
   
